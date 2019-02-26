@@ -1,0 +1,6 @@
+[submodule "check-handa-lunch-menu"]
+	path = check-handa-lunch-menu
+	url = git@gist.github.com:b9fb6244276cb2251a1bf6b1c190ad00.git
+[submodule "slack-gc"]
+	path = slack-gc
+	url = git@gist.github.com:3d6ba03a3a72f99fb62e497693c4f693.git

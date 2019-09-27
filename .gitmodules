@@ -6,3 +6,6 @@
 	path = slack-gc
 	url = git@gist.github.com:3d6ba03a3a72f99fb62e497693c4f693.git
 	ignore = dirty
+[submodule "linkdata-crawler"]
+	path = linkdata-crawler
+	url = git@gist.github.com:7e4846b8d2abfce867c8433ab6904440.git

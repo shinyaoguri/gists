@@ -9,3 +9,6 @@
 [submodule "linkdata-crawler"]
 	path = linkdata-crawler
 	url = git@gist.github.com:7e4846b8d2abfce867c8433ab6904440.git
+[submodule "calc-parser"]
+	path = calc-parser
+	url = git@gist.github.com:7b4ef4b20c9bccdee2b8cf6fac3b557f.git
